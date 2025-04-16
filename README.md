@@ -1,6 +1,6 @@
 # php-auth
 Some time ago, someone asked if I had the source for such a project, and out of boredom in my free time, I decided to create something like this.
-I don't expect this project to be updated regularly. If there are any bugs, you can message me on Telegram @asd8as78d.
+I don't expect this project to be updated regularly. If there are any bugs, you open pull request.
 
 LICENSE CODES:
 ABC123
